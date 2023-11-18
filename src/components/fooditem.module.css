@@ -1,0 +1,30 @@
+.itemContainer{
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    width: 300px;
+}
+.itemImage{
+    width: 100%;
+    height: auto;
+}
+.itemContent{
+    font-size: 1em;
+    text-align: center;
+}
+.itemButton{
+    border-radius: 5px;
+    background-color: #29bb89;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.itemButtonContainer{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+
+}

@@ -1,0 +1,20 @@
+.recipeCard{
+    max-width: 600px;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.details{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2em;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
